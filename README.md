@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @kfhawas
-- 👀 I’m interested in development using R
-- 🌱 I’m currently learning how to use Azure OCR 
-- 💞️ I’m looking to collaborate on in using OCR to digitize documents to process it programetically
+- 👀 I’m interested in AI development
 - 📫 How to reach me by sending me email to my email address khaledfawzihawas@yahoo.com
 
 <!---
